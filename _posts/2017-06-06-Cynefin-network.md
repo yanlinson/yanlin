@@ -13,5 +13,5 @@ title: "Cynefin network"
 * [Cynefin framework - Wikipedia](https://en.wikipedia.org/wiki/Cynefin_framework)
 * [Complexity theory and organizations - Wikipedia](https://en.wikipedia.org/wiki/Complexity_theory_and_organizations)
 
-
+{% include toc %}
 
