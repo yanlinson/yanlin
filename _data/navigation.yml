@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "我"
-    url: /about/
-  - title: "随笔"
-    url: /year-archive/
   - title: "安人"
     url: /collection-archive/
+  - title: "随笔"
+    url: /year-archive/
+  - title: "我"
+    url: /about/
 
 
 # documentation links
