@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "你好"
 permalink: /about/
 ---
