@@ -82,14 +82,14 @@ author:
   bio              : "会跑步的蜗牛"
   location         : "深圳"
   email            : "361103220@qq.com"
-  uri              : “https://yanlinson.github.io
+  uri              : "https://yanlinson.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         : 
   foursquare       :
-  github           :
+  github           : yanlinson
   google_plus      :
   keybase          :
   instagram        :
@@ -245,7 +245,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -257,7 +257,7 @@ defaults:
     values:
       layout: single
       read_time: true
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
       related: true
