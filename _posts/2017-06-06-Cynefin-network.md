@@ -4,7 +4,6 @@ title: "Cynefin network"
 ---
 
 
-# 术语卡
 
 - 术语：Cynefin network 
 - 印象：一个帮助你作出决策的概念模型。
