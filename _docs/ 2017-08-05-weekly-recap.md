@@ -1,11 +1,8 @@
 ---
 title: "weekly recap"
-permalink:/docs/weekly-recap
+permalink: /docs/weekly-recap
 ---
 
-
-
-# 2017-08-05-weekly-recap
 
 ## 月亮
 
