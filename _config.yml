@@ -257,7 +257,7 @@ defaults:
     values:
       layout: single
       read_time: true
-      author_profile: false
+      author_profile: true
       share: true
       comments: true
       related: true
