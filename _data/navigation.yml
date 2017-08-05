@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "安人"
-    url: /collection-archive/
+    url: /education/
   - title: "随笔"
-    url: /year-archive/
+    url: /essays/
   - title: "我"
     url: /about/
 
