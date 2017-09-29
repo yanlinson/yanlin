@@ -2,6 +2,7 @@
 title: "人工智能与英语学习"
 <<<<<<< HEAD
 author_profile: true
+permalink: /about/
 ---
 =======
 >>>>>>> parent of 0b0a83f... Update
