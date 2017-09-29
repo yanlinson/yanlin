@@ -236,9 +236,6 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path/
-  categories:
-    output: true
-    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -264,16 +261,3 @@ defaults:
       share: true
       comments: true
       related: true
-    # _docs
-  - scope:
-      path: ""
-      type: categories 
-    values:
-      layout: single
-      read_time: true
-      author_profile: true
-      share: true
-      comments: true
-      related: true
-
-
