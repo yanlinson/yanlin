@@ -6,7 +6,8 @@ main:
     url: /essays/
   - title: "我"
     url: /about/
-
+  - title: "你"
+    url: /categories/
 
 # documentation links
 
