@@ -1,5 +1,8 @@
 ---
 title: "人工智能与英语学习"
+author_profile: true
+permalink: /about/
+---
 ---
 
 
