@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "你好,我的读者"
 author_profile: true
 permalink: /about/

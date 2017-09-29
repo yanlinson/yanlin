@@ -233,7 +233,7 @@ compress_html:
 
 # Collections
 collections:
-  docs:
+  education:
     output: true
     permalink: /:collection/:path/
 
@@ -250,10 +250,10 @@ defaults:
       comments: true
       share: true
       related: true
-  # _docs
+  # _education
   - scope:
       path: ""
-      type: docs 
+      type: education 
     values:
       layout: single
       read_time: true
