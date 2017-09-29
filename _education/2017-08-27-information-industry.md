@@ -1,6 +1,6 @@
 ---
 title: "智识生产"
-permalink: /education/
+permalink: /education/knowledge
 ---
 
 # 反常识卡
