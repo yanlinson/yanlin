@@ -2,6 +2,7 @@
 permalink: /about/
 title: "你好,我的读者"
 layout: archive
+author_profile: true
 ---
 
 > 你可曾见过，会跑步的蜗牛？
