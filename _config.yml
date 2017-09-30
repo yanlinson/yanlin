@@ -236,9 +236,6 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path/
-  peace:
-    output: true
-    permalink: /:collection/:path/
 # Defaults
 defaults:
   # _posts
@@ -256,17 +253,6 @@ defaults:
   - scope:
       path: ""
       type: docs 
-    values:
-      layout: single
-      read_time: true
-      author_profile: true
-      share: true
-      comments: true
-      related: true
-  # _docs
-  - scope:
-      path: ""
-      type: peace 
     values:
       layout: single
       read_time: true
