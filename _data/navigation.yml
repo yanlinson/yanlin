@@ -4,6 +4,8 @@ main:
     url: /education/
   - title: "随笔"
     url: /essays/
+  - title: "修己"
+    url: /peace/
   - title: "我"
     url: /about/
 

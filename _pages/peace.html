@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /categories/
-title: "Posts by Category"
+title: "修己"
+permalink: /peace/
 author_profile: true
 ---
 
@@ -15,7 +15,7 @@ author_profile: true
       {% capture written_label %}{{ label }}{% endcapture %}
     {% endif %}
   {% endunless %}
-  {% for post in collection.categories %}
+  {% for post in collection.peace %}
     {% unless collection.output == false or collection.label == "posts" %}
       {% include archive-single.html %}
     {% endunless %}
