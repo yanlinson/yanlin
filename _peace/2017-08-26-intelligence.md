@@ -1,5 +1,4 @@
 ---
-category: categories/intelligence
 permalink: /peace/intelligence-english
 title: "人工智能与英语学习"
 ---
