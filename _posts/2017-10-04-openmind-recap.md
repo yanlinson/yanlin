@@ -1,8 +1,7 @@
 ---
-title: "开智部落回顾2016-2017”
+title: "开智部落回顾2017"
+author_profile: true
 ---
-
-
 
 # 时间旅行
 
