@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Franklin"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : 
   bio              : "会跑步的蜗牛"
   location         : "深圳"
   email            : "361103220@qq.com"
