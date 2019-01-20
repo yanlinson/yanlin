@@ -1,5 +1,5 @@
 ---
-title: "为学与做人"
+title: 为学与做人
 ---
 
 {% include toc %}
