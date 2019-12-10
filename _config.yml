@@ -7,7 +7,7 @@
 theme: minimal-mistakes-jekyll
 # Site Settings
 locale                   : "zh-CN"
-title                    : "黄彦林的网志"
+title                    : "Franklin的网志"
 title_separator          : "|"
 name                     : "Franklin"
 description              : "personal writing space"
