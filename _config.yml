@@ -266,7 +266,7 @@ defaults:
   # _docs
   - scope:
       path: ""
-      type: technology 
+      type: peace 
     values:
       layout: single
       read_time: true

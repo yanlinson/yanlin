@@ -1,5 +1,5 @@
 ---
-permalink: /technology/intelligence-english
+permalink: /peace/intelligence-english
 title: "人工智能与英语学习"
 ---
 
@@ -103,5 +103,3 @@ Thinking  与 Wondering  相比，逊色不少，因为 secretly  体现出作�
 # 参考
 - [Prototype theory - Wikipedia](https://en.wikipedia.org/wiki/Prototype_theory)
 - [英才论（4） - 阳志平的网志](http://www.yangzhiping.com/worksmarter/chapter4/talk004) 
-
-
