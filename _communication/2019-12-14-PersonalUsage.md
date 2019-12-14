@@ -1,5 +1,5 @@
 --- 
-title: “Franklin使用指南”
+title: 这就是 Franklin
 permalink: /communication/PersonalUsage
 ---
 
