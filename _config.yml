@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Franklin"
-  avatar           : "https://github.com/yanlinson/yanlin/blob/master/assets/images/Profile.JPG"
+  avatar           : "https://raw.githubusercontent.com/yanlinson/yanlin/master/assets/images/Profile.JPG"
   bio              : "会跑步的蜗牛"
   location         : "深圳"
   email            : "361103220@qq.com"
