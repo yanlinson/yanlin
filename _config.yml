@@ -239,6 +239,9 @@ collections:
   peace:
     output: true
     permalink: /:collection/:path/
+  communication:
+    output: true
+    permalink: /:collection/:path/
 # Defaults
 defaults:
   # _posts
@@ -274,3 +277,15 @@ defaults:
       share: true
       comments: true
       related: true
+  # _docs
+  - scope:
+      path: ""
+      type: communication 
+    values:
+      layout: single
+      read_time: true
+      author_profile: true
+      share: true
+      comments: true
+      related: true
+
