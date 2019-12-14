@@ -5,7 +5,7 @@ layout: archive
 author_profile: true
 ---
 
-# 作者简介
+
 
 1．
 
@@ -54,9 +54,6 @@ author_profile: true
 愿你的路上充满奇迹，充满发现。
 
 
-# 联系作者
-- email 361103220@qq.com
-- 个人网站 https://huangyanlin.com
 
 
 
