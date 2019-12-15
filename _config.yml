@@ -239,7 +239,9 @@ collections:
   technology:
     output: true
     permalink: /:collection/:path/
-  
+  trace:
+    output: true
+    permalink: /:collection/:path/
 # Defaults
 defaults:
   # _posts
@@ -275,5 +277,15 @@ defaults:
       share: true
       comments: true
       related: true
+# _docs
+  - scope:
+      path: ""
+      type: trace
+    values:
+      layout: single
+      read_time: true
+      author_profile: true
+      share: true
+      comments: true
+      related: true
   
-
