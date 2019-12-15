@@ -1,12 +1,11 @@
 ---
 permalink: /memo/literature
-title: “文学作品阅读”
+title: 文学作品阅读
 ---
 
+# Fundamentals
 
-# 如何阅读文学作品？
-
-## Basics 
+## Elements 
 Plot
 Character 
 Point of view 
