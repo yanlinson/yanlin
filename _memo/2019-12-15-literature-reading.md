@@ -1,8 +1,6 @@
 ---
-permalink: /education/literature
+permalink: /literature/
 title: 文学作品阅读
-layout: archive
-author_profile: true
 ---
 
 # Fundamentals
