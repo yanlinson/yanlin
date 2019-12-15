@@ -43,34 +43,33 @@ title: 文学作品阅读
 
 # From passive knowledge to active knowledge 
 
-## Own what you’ve read 
 
-### character 
+## character 
 1. 关注第一次出现的信息
 
 2. 先从不重要的人物开始，just knowing who they are and how they intersect with the plot is enough
 
 3. 再从次重要的人物入手，创建人物特征清单 
 
-### setting 
+## setting 
 关注地点之间的联系
 
-### plot
+## plot
 关注 main turning point 
 
-### contextualization 
+## contextualization 
 1. 关注 author
 2. publication
 3. historical moment 
 
 
 
-### Think as a writer
+## Think as a writer
 1. Who are the protagonist?
 
 2. Who is the narrator? 
 
-### voice (who is telling the story and how)
+## voice (who is telling the story and how)
 1. Narrative voice (first, second, third person— limited, omniscient)
 
 2. Character voice: narrator ≠ author 
@@ -78,7 +77,7 @@ title: 文学作品阅读
     - Each character is limited to their perspective in their moment. 
     - You can’t always trust characters to know/say what they mean. 
 
-### staging (putting voices in a place and context)
+## staging (putting voices in a place and context)
 
 1. Space+Time=Staging
 
