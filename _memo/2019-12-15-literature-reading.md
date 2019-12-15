@@ -1,5 +1,5 @@
 ---
-permalink: /memo/literature
+permalink: /education/literature
 title: 文学作品阅读
 layout: archive
 author_profile: true
