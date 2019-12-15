@@ -37,7 +37,7 @@ Underlining （下划线）
 读完每一章暂停一下，梳理情节发展，列如下清单：characters, setting and developments 
 
 
-# Three ways to turn passive knowledge to active knowledge 
+# Ways to turn passive knowledge to active knowledge 
 
 ## Own what you’ve read 
 
@@ -60,7 +60,6 @@ book
 historical moment 
 
 
-## How to own and why 
 
 ### Things to consider before setting pen to paper
 Who are the protagonist?
