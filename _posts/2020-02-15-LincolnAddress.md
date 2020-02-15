@@ -5,10 +5,10 @@ title: 从葛底斯堡演讲想到的
 这周准备网课，林肯先生的葛底斯堡演讲浮现脑海。2.12 号恰逢林肯的生日，于是决定给学生讲讲这​历史名篇。
 
 
-> 亚伯拉罕·林肯（1809.2.12 – 1865.4.15）第十六任美国总统，他领导美国经历南北战争。废除奴隶制，并推动经济的现代化。
+> 亚伯拉罕·林肯（1809.2.12 – 1865.4.15）第十六任美国总统，他领导美国南北战争,废除奴隶制，并推动经济的现代化。
 
 
-1863年11月19日，葛底斯堡战役结束四个半月后，林肯在葛底斯堡国家公墓揭幕仪式中发表此次演说，哀悼在葛底斯堡之役中阵亡的将士。在演讲中，林肯回顾国家基于何种理念，表达对逝者的敬意，同时激励生者继续前人未竟事业。
+1863年11月19日，葛底斯堡战役结束四个半月后，林肯在葛底斯堡国家公墓揭幕仪式中发表此演说，哀悼在葛底斯堡之役中阵亡的将士。在演讲中，林肯回顾国家基于何种理念，表达对逝者的敬意，同时激励生者继续前人未竟事业。
 
 看如今我们国家的疫情。那冲在最前线的医务人员，建筑工人，社区工作者、基层公务员、快递小哥，环卫工人还有各种在背后默默奉献的人。他们不正是为了国家，在打一场没有硝烟的战争吗？
 
@@ -71,7 +71,7 @@ But, in a larger sense, we can not dedicate -- we can not consecrate -- we can n
 It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us -- that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion -- that we here highly resolve that these dead shall not have died in vain -- that this nation, under God, shall have a new birth of freedom -- and that government of the people, by the people, for the people, shall not perish from the earth.
 
 
-而我们活着的，当继续推进他们未竟的事业。我们应致力于眼前伟大的任务---我们应倾心投入，效法先贤，不忘逝者之志；我们更应下定决心，励精图治，告慰在天亡灵；我们将在上帝的庇佑下，让我们的国家在自由中获得新生；而那为民所有、为民所治、为民所享的政府，也绝不会从这片土地上消亡。
+而我们活着的，当继续推进他们未竟的事业。我们应致力于眼前伟大的任务---我们应倾心投入，效法先贤，不忘逝者之志；我们更应下定决心，励精图治，以告慰在天亡灵；我们将在上帝的庇佑下，让我们的国家在自由中获得新生；而那为民所有、为民所治、为民所享的政府，也绝不会从这片土地上消亡。
 
 (黄彦林译)
 
